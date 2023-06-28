@@ -1,59 +1,55 @@
 
-# **Mikalai Kazlou**
+## **Mikalai Kazlou**
 
-![photo](/img/photo.jpg "Kazlou Mikalai")
+![photo](./img/photo.jpg "Kazlou Mikalai")
 
-## ***Junior .Net Developer***
-
----
-
-## **Contacts**
-
-### **Phone:** +375(33)-630-02-88
-
-### **Email:** <kazlou.mikalai.s@gmail.com>
-
-### **LinkedIn:** [mikalai-kazlou](https://www.linkedin.com/in/mikalai-kazlou)
-
-### **Discord:** Kazlou Mikalai(@mikalaikazlou)
+#### ***Junior .Net Developer***
 
 ---
 
-## **About myself**
+### **Contacts**
 
- I'm Nikolay. I would describe myself as a goal-oriented and hardworking person with a good listening skills.
+#### *Phone:* +375(33)-630-02-88
 
-Also, I have always been able to get  on well with different types of people. Working as a developer,  I have developed a number of important skills, including decision-making, multitasking, problem-solving and communication.
+#### *Email:* <kazlou.mikalai.s@gmail.com>
 
-My goal is to become a full stack developer, so for this I decided to study JS and React or Angular.
+#### *LinkedIn:* [mikalai-kazlou](https://www.linkedin.com/in/mikalai-kazlou)
 
----
-
-## **Skills**
-
-* ### **C\#**
-
-* ### **.Net CORE MVC**
-
-* ### **.Net WebAPI**
-
-* ### **MS SQL Server**
-
-* ### **HTML, CSS, Bootstrap, Kendo UI**
-
-* ### **JavaScript Basics**
-
-* ### **SOLID, DRY, KISS**
-
-* ### **Git, GitHub, GitFlow**
-
-* ### **Visual Studio, VS Code, WebStorm**
+#### *Discord:* Kazlou Mikalai(@mikalaikazlou)
 
 ---
 
-## **Code Example**
+### **About myself**
 
-Complete the solution so that it reverses the string passed into it.
+ *I'm Nikolay. I would describe myself as a goal-oriented and hardworking person with a good listening skills. Also, I have always been able to get  on well with different types of people. Working as a developer,  I have developed a number of important skills, including decision-making, multitasking, problem-solving and communication. My goal is to become a full stack developer, so for this I decided to study JS and React or Angular.*
+
+---
+
+### **Skills**
+
+* #### *C\#*
+
+* #### *.Net CORE MVC*
+
+* #### *.Net WebAPI*
+
+* #### *MS SQL Server*
+
+* #### *HTML, CSS, Bootstrap, Kendo UI*
+
+* #### *JavaScript Basics*
+
+* #### *SOLID, DRY, KISS*
+
+* #### *Git, GitHub, GitFlow*
+
+* #### *Visual Studio, VS Code, WebStorm*
+
+---
+
+### **Code Example**
+
+*Complete the solution so that it reverses the string passed into it (codewars).*
 
 ```
 using System;
@@ -81,24 +77,26 @@ public static class Kata
 
 ---
 
-## **Experience**
+### **Experience**
 
-* ### **Since 2021 I have been working as a .Net Developer in Republican unitary enterprise «Belenergostroy» – holding management company»** (*Software engineer*)
+* #### *Since 2021 I have been working as a .Net Developer in Republican unitary enterprise «Belenergostroy» – holding management company»* (*Software engineer*)
 
-* ### **Scientific and practical center of NAS of Belarus for mechanization of agriculture** (*Researcher*)
+* #### *Scientific and practical center of NAS of Belarus for mechanization of agriculture* (*Researcher*)
 
-### ***Projects***
+---
 
-* #### ***Work projects:*** 
-    * Contracts: Analysis and accounting of contracts in construction - (***In development***) ( ASP.Net Core MVC)
+### **Projects**
+
+* #### *Work projects:* 
+    * Contracts: Analysis and accounting of contracts in construction - (*In development*) ( ASP.Net Core MVC)
 
     * Authorization Server: Authorization server for login/register users, using OAuth 2.0/OpenID Сonnect - [Authorization Server](https://authsrv.rupbes.by:8011/)  ( ASP.Net Core MVC)
 
     * ApkSUOT: application for automation of work of labor protection engineers - [ApkSUOT](https://corp.rupbes.by:6969/)  ( ASP.Net Core MVC)
 
 
-* #### ***Courses:*** 
-     * TaskTracker (team work): a web application for working with a task list, like Trello (***Private repository***) -  ASP.Net Core MVC
+* #### *Courses:* 
+     * TaskTracker (team work): a web application for working with a task list, like Trello (*Private repository*) -  ASP.Net Core MVC
 
      * Currency-app: A currency converter - [Currency-app](https://bitbucket.org/mikalaikazlou/frontendrepository/src/feature-angular-currency-app-kazlou/angular-currency/currency-app/) (JS/Angular)
 
@@ -110,30 +108,30 @@ public static class Kata
 
 ---
 
-## **Education**
+### **Education**
 
-* ### **Scientific and practical center of NAS of Belarus for mechanization of agriculture** (*Technologies and means of  gricultural mechanization | 2012-2015 (postgraduate study)*)
+* #### *Scientific and practical center of NAS of Belarus for mechanization of agriculture* (*Technologies and means of  gricultural mechanization | 2012-2015 (postgraduate study)*)
 
-* ### **Belarusian State Agricultural Technical University** (*Technologies and means of  gricultural mechanization | 2011-2012 (master's degree*))
+* #### *Belarusian State Agricultural Technical University* (*Technologies and means of  gricultural mechanization | 2011-2012 (master's degree*))
 
-* ### **Belarusian State Agricultural Technical University** (*Design and production of agricultural machinery | 2006-2011*)
-
----
-
-## **Courses**
-
-* ### **IT Academy** (*ASP.NET Core MVC | 2020 - 2021*)
-
-* ### **IT Academy** (*C# Development | 2019*)
-
-* ### **IT Academy** (*Basics of Web technologies | 2019*)
+* #### *Belarusian State Agricultural Technical University* (*Design and production of agricultural machinery | 2006-2011*)
 
 ---
 
-## **Languages**
+### **Courses**
 
-* ### **English - Pre-Intermediate**
+* #### *IT Academy* (*ASP.NET Core MVC | 2020 - 2021*)
 
-* ### **Belarusian - Native**
+* #### *IT Academy* (*C# Development | 2019*)
 
-* ### **Russian - Native**
+* #### *IT Academy* (*Basics of Web technologies | 2019*)
+
+---
+
+### **Languages**
+
+* #### *English - Pre-Intermediate*
+
+* #### *Belarusian - Native*
+
+* #### *Russian - Native*
