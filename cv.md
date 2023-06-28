@@ -1,7 +1,7 @@
 
 # **Mikalai Kazlou**
 
-![photo](/img/photo.jpg "Kazlou Mikalai")
+![photo](./img/photo.jpg "Kazlou Mikalai")
 
 ## ***Junior .Net Developer***
 
